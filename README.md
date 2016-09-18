@@ -52,5 +52,12 @@ docker run \
 	icheko/apple-product-availability
 ```
 
+Docker for Mac: https://docs.docker.com/engine/installation/mac
+
+Docker for Windows: https://docs.docker.com/engine/installation/windows
+
 # Kill it
 `control + c`
+
+# Hat Tip
+https://gist.github.com/jeremygibbs/1d62544ee57dc4ee8633
