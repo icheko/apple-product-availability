@@ -1,5 +1,5 @@
 FROM php:5-alpine
-MAINTAINER “Jose Pacheco“ <jose@icheko.com>
+MAINTAINER "Jose Pacheco" <jose@icheko.com>
 COPY app /app
 WORKDIR /app
 
