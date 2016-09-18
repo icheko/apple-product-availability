@@ -35,7 +35,7 @@ Store: Simi Valley
 Nothing found. Sad face :'(
 ```
 # Sample Email
-![Image of Yaktocat](email_example.jpg)
+![Image of Yaktocat](https://github.com/icheko/apple-product-availability/blob/master/email_example.jpg)
 
 # Run it
 ```
