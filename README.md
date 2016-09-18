@@ -19,38 +19,9 @@ Store: Sherman Oaks
 Store: Northridge
     Apple Watch Series 2, 42mm Space Gray A..       0           unavailable
     Apple Watch Series 2, 42mm Silver Alumi..       1           unavailable
-
-Store: Topanga
-    Apple Watch Series 2, 42mm Space Gray A..       0           unavailable
-    Apple Watch Series 2, 42mm Silver Alumi..       1           unavailable
-
-Store: Beverly Center
-    Apple Watch Series 2, 42mm Space Gray A..       0           unavailable
-    Apple Watch Series 2, 42mm Silver Alumi..       1           unavailable
-
-Store: Century City
-    Apple Watch Series 2, 42mm Space Gray A..       0           unavailable
-    Apple Watch Series 2, 42mm Silver Alumi..       1           unavailable
-
-Store: The Grove
-    Apple Watch Series 2, 42mm Space Gray A..       0           unavailable
-    Apple Watch Series 2, 42mm Silver Alumi..       1           unavailable
-
-Store: Glendale Galleria
-    Apple Watch Series 2, 42mm Space Gray A..       0           unavailable
-    Apple Watch Series 2, 42mm Silver Alumi..       1           unavailable
-
-Store: The Americana at Brand
-    Apple Watch Series 2, 42mm Space Gray A..       0           unavailable
-    Apple Watch Series 2, 42mm Silver Alumi..       1           unavailable
-
-Store: Third Street Promenade
-    Apple Watch Series 2, 42mm Space Gray A..       0           unavailable
-    Apple Watch Series 2, 42mm Silver Alumi..       1           unavailable
-
-Store: Valencia Town Center
-    Apple Watch Series 2, 42mm Space Gray A..       0           unavailable
-    Apple Watch Series 2, 42mm Silver Alumi..       1           unavailable
+.
+.
+.
 
 Store: Pasadena
     Apple Watch Series 2, 42mm Space Gray A..       0           unavailable
@@ -63,6 +34,8 @@ Store: Simi Valley
 
 Nothing found. Sad face :'(
 ```
+# Sample Email
+![Image of Yaktocat](email_example.jpg)
 
 # Run it
 ```
