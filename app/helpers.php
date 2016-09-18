@@ -76,7 +76,7 @@ function print_monitoring_screen($availability, $products_friendly){
 
 	echo "\n";
 
-	echo print_header("Store", 45) . print_header("PRODUCT", 9) . print_header("AVAILABILITY", 20) . "\n\n";
+	echo print_header("STORE/PRODUCT DESCRIPTION", 45) . print_header("PROD. NUM", 9) . print_header("AVAILABILITY", 20) . "\n\n";
 
 	foreach ($availability as $index => $detail) {
 		
