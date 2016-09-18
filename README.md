@@ -37,6 +37,10 @@ Nothing found. Sad face :'(
 # Sample Email
 ![Image of Yaktocat](https://raw.githubusercontent.com/icheko/apple-product-availability/master/email_example.jpg)
 
+Note: Most likely this will go to spam. Make sure to setup a filter for the subject "Apple Product Availability Update" and check the box `Never send it to Spam`.
+
+Gmail: https://support.google.com/mail/answer/6579?hl=en
+
 # Run it
 ```
 docker run \
