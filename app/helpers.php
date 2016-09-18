@@ -159,9 +159,9 @@ function send_email($filtered_array, $EMAIL, $ZIP_CODE){
 		$email_body .= $msg_store . $msg_products . "<br/>";
 	}
 
-	echo $html_email = str_replace("[EMAIL_BODY]", $email_body, $html_email);
+	$html_email = str_replace("[EMAIL_BODY]", $email_body, $html_email);
 
-	echo "\nSending Email to {$EMAIL} ...\n";
+	echo "\nSending Email to {$EMAIL} ... ";
 	mail($EMAIL, $subject, $html_email, $headers);
-	echo "\nDONE!\n\n";
+	echo "DONE!\n\n";
 }
