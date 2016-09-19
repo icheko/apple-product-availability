@@ -1,6 +1,9 @@
 # Apple-Product-Availability
 A docker container which continuously checks product availability and emails when found
 
+[![](https://images.microbadger.com/badges/image/icheko/apple-product-availability.svg)](http://microbadger.com/images/icheko/apple-product-availability "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/icheko/apple-product-availability.svg)](http://microbadger.com/images/icheko/apple-product-availability "Get your own version badge on microbadger.com")
+
 # Terminal Awesomeness
 ```
 Every 30s: php index.php                                    2016-09-18 04:43:44
